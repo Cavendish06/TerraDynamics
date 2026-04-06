@@ -1,0 +1,29 @@
+
+## Présentation globale
+
+Notre idée nous est venue suite à un cours d'Enseignement Scientifique lors du quel nous avons découvert la modélisation numérique du climat. Ce système d'étude du climat nous a énormément intéressé, et nous nous sommes dit que cela pouvait être une bonne idée de réaliser un projet allant dans ce sens.
+
+Nous nous sommes donc posés question mais comment faire pour modéliser le climat à l'aide d'un algorithme.
+
+Suite à la rencontre vis-à-vie de la difficulté de certaines équations se cachant derrière ces modélisations nous nous sommes recentrés sur l'aspect représentation et un peu moins sur l'aspect prédiction/analyse.
+
+## Présentation de l'équipe
+
+Notre équipe, ou plutot notre duo se compose de Baptiste DIEU et de Macéo MESTRALLET, nous sommes tous les deux en classe de terminales. Nous nous sommes partagés le travail de façon à ce que chacun puisse être actif là où il est le plus fort. Baptiste s'est donc chargé de la partie interface utilisateur avec le développement de la fenêtre d'accueil puis il a assisté Macéo pour certaines fonction du code "principal". Macéo s'est donc occupé de la partie analyse des données et visualisations. Nous avons mis un bon mois pour développer notre projet, mais avant ce mois nous nous étions tous les deux formés aux diverses librairies que nous avons utilisé pour ce projet.
+
+## Étapes du projet
+
+Comme dit plus haut, nous avons commencé par étudier la modélisation numérique climatique et lorsque nous nous sommes heurtés aux différentes équations composant un modèle nous avons décidé de nous pencher sur l'aspect visualisation plutot que sur l'aspect prédiction.
+Ensuite nous avons cherché tout ce dont nous aurions besoins (librairies, données, etc). S'en est suivie une période de formation aux divers éléments dont nous aurions besoin. 
+Une fois formés nous avons débuté le développement du projet, nous avons développés en parallèle la fenêtre d'accueil ainsi que le début de la partie principale puis nous nous sommes entraidés pour finir le code central.
+Finalement, nous pouvons aujourd'hui vous présenter ce projet fini.
+
+## Validation de l’opérationnalité et du fonctionnement 
+
+Le projet est encore améliorable mais nous pensons que la version actuelle est une bonne base.
+Pour lutter contre les bugs nous avons vérifier tout d'abord la synthaxe à chaque fois qu'une fonction était ajoutée puis nous avons utiliser une méthode simple, lancer le code et l'ajuster jusqu'à obtenir le résultat attendu pour tous les cas possibles. Nous avons été heurtés plusieurs fois à des difficultés liées à la puissance de nos ordinateurs, pour esquiver ces problèmes nous nous sommes adaptés en changeant de librairie (ce qui était souvent le problème) pour rendre le programme plus léger et rapide.
+
+## Ouverture 
+
+Pour améliorer notre projet nous pourrions ajouté la possibilité de visualiser d'autres données (pression atmosphérique, humidité, etc), mais bien d'autres améliorations pourraient être faite.
+Avec ce projet, nous avons pu développer notre capacité à travailler en équipe, notre capacité à s'adapter à diverses situations, notre capacité à nous former, notre capacité à gérer un projet, et bien d'autres.
