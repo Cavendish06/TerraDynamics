@@ -27,3 +27,31 @@ Pour lutter contre les bugs nous avons vérifier tout d'abord la synthaxe à cha
 
 Pour améliorer notre projet nous pourrions ajouté la possibilité de visualiser d'autres données (pression atmosphérique, humidité, etc), mais bien d'autres améliorations pourraient être faite.
 Avec ce projet, nous avons pu développer notre capacité à travailler en équipe, notre capacité à s'adapter à diverses situations, notre capacité à nous former, notre capacité à gérer un projet, et bien d'autres.
+
+-----------------------------------------------
+## Global Presentation
+
+Our idea came to us following a Scientific Education class during which we discovered numerical climate modeling. This climate study system fascinated us greatly, and we thought it could be a good idea to carry out a project along these lines.
+We then asked ourselves: how can we model climate using an algorithm?
+After encountering the difficulty of certain equations behind these models, we refocused on the representation aspect and slightly less on the prediction/analysis aspect.
+
+## Team Presentation
+
+Our team, or rather our duo, consists of Baptiste DIEU and Macéo MESTRALLET, both of us in our final year of high school. We divided the work so that each of us could be active where he is strongest. Baptiste took charge of the user interface, developing the welcome window, and then assisted Macéo with certain functions of the "main" code. Macéo handled the data analysis and visualization part. We spent about a month developing our project, but before that month we had both trained ourselves in the various libraries we used for this project.
+
+## Project Steps
+
+As mentioned above, we started by studying numerical climate modeling, and when we encountered the various equations making up a model, we decided to focus on the visualization aspect rather than the prediction aspect.
+We then looked for everything we would need (libraries, data, etc.). This was followed by a training period on the various elements we would need.
+Once trained, we began developing the project. We developed the welcome window and the beginning of the main part in parallel, then helped each other to finish the core code.
+Finally, we are now able to present this finished project to you.
+
+## Validation of Operationality and Functioning
+
+The project can still be improved, but we believe the current version is a solid foundation.
+To tackle bugs, we first checked the syntax each time a function was added, then used a simple method: run the code and adjust it until the expected result was obtained for all possible cases. We encountered difficulties several times related to the processing power of our computers; to work around these issues, we adapted by changing libraries (which was often the problem) to make the program lighter and faster.
+
+## Outlook
+
+To improve our project, we could add the ability to visualize other data (atmospheric pressure, humidity, etc.), but many other improvements could be made.
+Through this project, we were able to develop our ability to work as a team, our ability to adapt to various situations, our ability to train ourselves, our ability to manage a project, and much more.
